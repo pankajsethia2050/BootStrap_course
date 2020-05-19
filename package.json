@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap4_course",
+  "version": "1.0.0",
+  "description": "Bootstrap course4 \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D4 \u001b[F\u001b[B\u001b[F\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cc\u001b[2~o\u001b[C\u001b[C\u001b[C\u001burse",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajsethia2050/BootStrap_course.git"
+  },
+  "author": "Pankaj Sethia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajsethia2050/BootStrap_course/issues"
+  },
+  "homepage": "https://github.com/pankajsethia2050/BootStrap_course#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
